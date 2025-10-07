@@ -1,0 +1,96 @@
+[
+  {
+    "id": "ghoti",
+    "title": "Ghoti (Igatpuri)",
+    "image": "assets/ghoti1.jpg",
+    "description": "Prime residential layouts near Samruddhi Mahamarg & Igatpuri hub. These plots are ideal for weekend homes and offer excellent appreciation potential.",
+    "highlights": [
+      "Close to Samruddhi Mahamarg expressway",
+      "Quick access to Igatpuri Railway Station",
+      "Scenic surroundings ideal for second homes"
+    ],
+    "amenities": [
+      "Well-marked plots",
+      "Wide internal roads",
+      "Water & electricity provision"
+    ],
+    "mapImage": "assets/ghoti-map1.png"
+  },
+  {
+    "id": "makhmalabad",
+    "title": "Makhmalabad",
+    "image": "assets/makh2.jpg",
+    "description": "Urban NA plots within Nashik city limits, perfect for housing. Located in a fast-developing residential zone with great connectivity.",
+    "highlights": [
+      "Within Nashik city limits",
+      "Close to schools, colleges & hospitals",
+      "High urban growth potential"
+    ],
+    "amenities": [
+      "City-level road connectivity",
+      "Green spaces",
+      "Modern infrastructure"
+    ],
+    "mapImage": "assets/makh-map2.png"
+  },
+  {
+    "id": "gonde",
+    "title": "Bhavani Nagar – Gonde Gaon (NH-3, Nashik)",
+    "image": "assets/gonde3.jpg",
+    "description": "Bhavani Nagar residential layout at Gonde Gaon is the only residential land project in the industrial hub of Nashik. Offering modern amenities, excellent connectivity, and eco-friendly living, it ensures a high-return investment opportunity.",
+    "highlights": [
+      "Nearest to Asvali, Ghoti & Igatpuri Railway Stations",
+      "Just 500 m from NH-3",
+      "Located in fastest-growing industrial hub of Nashik",
+      "Only 10–15 min from Nashik city",
+      "Surrounded by green & developed neighborhood",
+      "Easy access to schools, colleges, hospitals, water filtration plants",
+      "High-return investment opportunity"
+    ],
+    "amenities": [
+      "Well-planned internal WBM roads",
+      "Stone marking on each plot",
+      "Tree plantation for eco-friendly living"
+    ],
+    "mapImage": "assets/gonde-map3.png"
+  },
+  {
+    "id": "ozar",
+    "title": "Ozar",
+    "image": "assets/ozar4.jpg",
+    "description": "Strategic location near Ozar Airport & Nashik’s industrial zone. Perfect mix of residential and investment potential.",
+    "highlights": [
+      "Near Ozar Airport & MIDC",
+      "10–15 min from Nashik city",
+      "Excellent connectivity with highways"
+    ],
+    "amenities": [
+      "Planned layouts",
+      "Internal roads",
+      "Green spaces"
+    ],
+    "mapImage": "assets/ozar-map4.png"
+  },
+  {
+    "id": "talwade",
+    "title": "Talwade (Trimbak)",
+    "image": "assets/talwade5.jpg",
+    "description": "Farmhouse plots surrounded by greenery & scenic Trimbak hills. Peaceful environment with a touch of nature.",
+    "highlights": [
+      "Surrounded by scenic Trimbak hills",
+      "Peaceful & green environment",
+      "Quick access to Trimbak town"
+    ],
+    "amenities": [
+      "Eco-friendly layouts",
+      "Tree plantations",
+      "Internal road system"
+    ],
+    "mapImage": "assets/talwade-map5.png"
+  }
+]
+
+
+
+
+
